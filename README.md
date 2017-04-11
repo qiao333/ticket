@@ -1,3 +1,10 @@
+## 注意
+
+此项目已不再维护，请勿在生产环境中使用。
+
+<details>
+<summary>以下为原 README 内容</summary>
+
 # LeanCloud 的技术支持（工单）系统
 
 如果还未见识过工单系统，请移步于 
@@ -112,3 +119,4 @@ MIT
 
 [LeanCloud 站点下载地址](https://download.leancloud.cn/demo/)
 
+</details>
